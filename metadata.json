@@ -1,0 +1,6 @@
+{
+  "name": "Deepak Academy",
+  "description": "Comprehensive learning platform for Deepak Academy students featuring interactive video courses, live classes, study notes, mock test quizzes, doubts forum, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
